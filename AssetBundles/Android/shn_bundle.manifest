@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 4258525733
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea0115f64b2f4f6b831c58581a0dce89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/_Scenes/scene_01_shn.unity
+Dependencies: []

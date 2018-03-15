@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2773744213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58525d853ecd32753bf7768b0126f270
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/Tanks/Scenes/TanksExample.unity
+Dependencies:
+- C:/Users/tiago.zanchi/Documents/Boom Real/AssetBundles/Android/tanks-albedo.normal-hd

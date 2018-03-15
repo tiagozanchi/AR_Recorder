@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Recorder", "Assembly-CSharp-firstpass.csproj", "{E0287531-24FC-523E-24E1-6463889C2B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Recorder", "Assembly-CSharp.csproj", "{922DB3D2-A0A0-67A1-BD62-1BBB8CCD2EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Recorder", "Assembly-CSharp-Editor.csproj", "{997653F6-6E93-31A2-AFE5-A96F7E3028CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0287531-24FC-523E-24E1-6463889C2B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0287531-24FC-523E-24E1-6463889C2B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0287531-24FC-523E-24E1-6463889C2B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0287531-24FC-523E-24E1-6463889C2B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922DB3D2-A0A0-67A1-BD62-1BBB8CCD2EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922DB3D2-A0A0-67A1-BD62-1BBB8CCD2EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922DB3D2-A0A0-67A1-BD62-1BBB8CCD2EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922DB3D2-A0A0-67A1-BD62-1BBB8CCD2EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997653F6-6E93-31A2-AFE5-A96F7E3028CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997653F6-6E93-31A2-AFE5-A96F7E3028CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997653F6-6E93-31A2-AFE5-A96F7E3028CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997653F6-6E93-31A2-AFE5-A96F7E3028CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

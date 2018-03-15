@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1394869817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8d1e31b891bb11ece0a572d025261de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f49f05f36a566d50434f7d9f3fb347da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleSample/SampleAssets/MyCube.prefab
+Dependencies:
+- C:/Users/tiago.zanchi/Documents/Boom Real/AssetBundles/Android/material-bundle
